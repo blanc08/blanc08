@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blanc08
-- 👀 I’m interested in Web and Game
-- 🌱 I’m currently learning UI/UX
-- 🔥 I’m looking to collaborate on web development
+- 👀 I’m interested in Software and Machine Learning
+- 🌱 I’m currently exploring Machine Learning domain
+- 🔥 I’m looking to collaborate
 - 📫 How to reach me : bagusoktaviadi1@gmail.com
 
 <!---
